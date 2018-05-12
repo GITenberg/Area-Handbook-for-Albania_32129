@@ -1,0 +1,40 @@
+_repo: Area-Handbook-for-Albania_32129
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Elpern, Sarah Jane
+    gutenberg_agent_id: '35676'
+    url: http://www.gutenberg.org/2009/agents/35676
+  - agent_name: Giloane, William
+    gutenberg_agent_id: '35677'
+    url: http://www.gutenberg.org/2009/agents/35677
+  - agent_name: Peters, Stephen
+    gutenberg_agent_id: '35679'
+    url: http://www.gutenberg.org/2009/agents/35679
+  - agent_name: White, Eston T.
+    gutenberg_agent_id: '35680'
+    url: http://www.gutenberg.org/2009/agents/35680
+  - agent_name: Keefe, Eugene K.
+    birthdate: 1922
+    gutenberg_agent_id: '35675'
+    url: http://www.gutenberg.org/2009/agents/35675
+  - agent_name: Moore, James M.
+    gutenberg_agent_id: '35678'
+    url: http://www.gutenberg.org/2009/agents/35678
+description: ''
+gutenberg_issued: '2010-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32129'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Albania'
+- !lcc 'DR'
+title: Area Handbook for Albania
+url: http://www.gutenberg.org/ebooks/32129
